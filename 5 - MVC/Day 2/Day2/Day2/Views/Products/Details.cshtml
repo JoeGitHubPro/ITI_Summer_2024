@@ -1,0 +1,35 @@
+﻿@model Product
+
+
+<h1>Details</h1>
+
+<div>
+    <h4>Product</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Model.Name
+        </dt>
+        <dd class = "col-sm-10">
+            @Model.Name
+        </dd>
+        <dt class = "col-sm-2">
+            @Model.Price
+        </dt>
+        <dd class = "col-sm-10">
+            @Model.Price
+        </dd>
+        <dt class = "col-sm-2">
+            @Model.Category
+        </dt>
+        <dd class = "col-sm-10">
+            @Model.Category.Id
+        </dd>
+    </dl>
+</div>
+<div>
+    <a href="/Products/Delete">Delete</a> | 
+
+    <a href="/Products/Index">Back to List</a>
+
+</div>

@@ -1,0 +1,32 @@
+﻿@model List<Category>
+
+
+
+<h1>Index</h1>
+
+<p>
+    <a href="/Categories/Create" class="btn btn-primary">Create New</a> 
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                Name 
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @item.Name
+                </td>
+                <td>
+                        <a href="/Categories/Edit/@item.Id" class="btn btn-secondary">Edit</a> |
+                        <a href="/Categories/Details/@item.Id" class="btn btn-secondary">Details</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

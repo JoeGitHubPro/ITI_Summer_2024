@@ -1,0 +1,28 @@
+D:\ITI\ITI .Net 24\Day 2\Day 2\Day 2\bin\Debug\net8.0\Day 2.exe
+D:\ITI\ITI .Net 24\Day 2\Day 2\Day 2\bin\Debug\net8.0\Day 2.deps.json
+D:\ITI\ITI .Net 24\Day 2\Day 2\Day 2\bin\Debug\net8.0\Day 2.runtimeconfig.json
+D:\ITI\ITI .Net 24\Day 2\Day 2\Day 2\bin\Debug\net8.0\Day 2.dll
+D:\ITI\ITI .Net 24\Day 2\Day 2\Day 2\bin\Debug\net8.0\Day 2.pdb
+D:\ITI\ITI .Net 24\Day 2\Day 2\Day 2\obj\Debug\net8.0\Day 2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\ITI .Net 24\Day 2\Day 2\Day 2\obj\Debug\net8.0\Day 2.AssemblyInfoInputs.cache
+D:\ITI\ITI .Net 24\Day 2\Day 2\Day 2\obj\Debug\net8.0\Day 2.AssemblyInfo.cs
+D:\ITI\ITI .Net 24\Day 2\Day 2\Day 2\obj\Debug\net8.0\Day 2.csproj.CoreCompileInputs.cache
+D:\ITI\ITI .Net 24\Day 2\Day 2\Day 2\obj\Debug\net8.0\Day 2.dll
+D:\ITI\ITI .Net 24\Day 2\Day 2\Day 2\obj\Debug\net8.0\refint\Day 2.dll
+D:\ITI\ITI .Net 24\Day 2\Day 2\Day 2\obj\Debug\net8.0\Day 2.pdb
+D:\ITI\ITI .Net 24\Day 2\Day 2\Day 2\obj\Debug\net8.0\Day 2.genruntimeconfig.cache
+D:\ITI\ITI .Net 24\Day 2\Day 2\Day 2\obj\Debug\net8.0\ref\Day 2.dll
+E:\Windows\DownLoads\Day 2\Day 2\bin\Debug\net8.0\Day 2.exe
+E:\Windows\DownLoads\Day 2\Day 2\bin\Debug\net8.0\Day 2.deps.json
+E:\Windows\DownLoads\Day 2\Day 2\bin\Debug\net8.0\Day 2.runtimeconfig.json
+E:\Windows\DownLoads\Day 2\Day 2\bin\Debug\net8.0\Day 2.dll
+E:\Windows\DownLoads\Day 2\Day 2\bin\Debug\net8.0\Day 2.pdb
+E:\Windows\DownLoads\Day 2\Day 2\obj\Debug\net8.0\Day 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Windows\DownLoads\Day 2\Day 2\obj\Debug\net8.0\Day 2.AssemblyInfoInputs.cache
+E:\Windows\DownLoads\Day 2\Day 2\obj\Debug\net8.0\Day 2.AssemblyInfo.cs
+E:\Windows\DownLoads\Day 2\Day 2\obj\Debug\net8.0\Day 2.csproj.CoreCompileInputs.cache
+E:\Windows\DownLoads\Day 2\Day 2\obj\Debug\net8.0\Day 2.dll
+E:\Windows\DownLoads\Day 2\Day 2\obj\Debug\net8.0\refint\Day 2.dll
+E:\Windows\DownLoads\Day 2\Day 2\obj\Debug\net8.0\Day 2.pdb
+E:\Windows\DownLoads\Day 2\Day 2\obj\Debug\net8.0\Day 2.genruntimeconfig.cache
+E:\Windows\DownLoads\Day 2\Day 2\obj\Debug\net8.0\ref\Day 2.dll
