@@ -1,7 +1,8 @@
 # Summer .NET Internship 2024
 
-![Internship Logo](https://github.com/JoeGitHubPro/ITI_Summer_2024/blob/main/Readme.png) <!-- Replace with the actual path to your image -->
-
+<p align="center" style="width: 100%;">
+    <img src="/Readme.png" alt="project-image" style="width: 100%; max-width: 600px;">
+</p>
 ## Introduction
 This is my sub-tasks I completed during my internship at the Information Technology Institute in Summer 2024. Throughout this period, I worked with various .NET technologies, enhancing my skills in C#, LINQ, EF Core, and MVC.
 
